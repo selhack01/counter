@@ -42,6 +42,16 @@ const useStyles = createUseStyles({
     borderRadius: "50%",
     color: "#7d4052",
   },
+  input: {
+    width: '200px',
+    height: '30px',
+    textAlign: 'center',
+    border: "solid 2px #7d4052",
+    backgroundColor: "#f28c87",
+    borderRadius: "8px",
+    color: "#7d4052",
+    fontSize:'20px'
+  }
 });
 
 export default useStyles;
